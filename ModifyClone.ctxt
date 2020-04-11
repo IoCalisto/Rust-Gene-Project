@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ModifyClone
+comment1.params=cloneName\ amount
+comment1.target=boolean\ depositClone(java.lang.String,\ int)
+numComments=2

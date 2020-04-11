@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CloneCreator
+comment1.params=
+comment1.target=CloneCreator()
+comment2.params=cloneName
+comment2.target=boolean\ newEntry(java.lang.String)
+numComments=3
