@@ -17,7 +17,7 @@ public class CloneCreator
         try
         {
 
-            File cloneStorage = new File("C:\\Users\\IoCalisto\\Desktop\\javarust1\\"+cloneName+".txt");
+            File cloneStorage = new File("javarust1\\"+cloneName+".txt");
 
             if(!cloneStorage.exists()){
                 FileWriter fr = new FileWriter(cloneStorage, true);

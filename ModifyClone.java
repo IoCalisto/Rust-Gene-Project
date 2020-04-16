@@ -15,7 +15,7 @@ public class ModifyClone
         try{
                 System.out.println("PING1");
                 
-              File cloneStorage = new File("C:\\Users\\IoCalisto\\Desktop\\javarust1\\"+cloneName+".txt"); //Selects file
+              File cloneStorage = new File("javarust1\\"+cloneName+".txt"); //Selects file
               
               System.out.println("PING2");
               

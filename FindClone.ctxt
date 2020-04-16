@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FindClone
+comment1.params=
+comment1.target=FindClone()
+comment2.params=cloneName
+comment2.target=java.lang.String\ locateClone(java.lang.String)
+numComments=3
